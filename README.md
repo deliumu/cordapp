@@ -4,7 +4,7 @@
 2. Download and install IntelliJ Community Edition (supported versions 2017.x and 2018.x)
 3. Download the bootcamp-cordapp repository:
 
-       git clone https://github.com/corda/bootcamp-cordapp
+       git clone https://github.com/deliumu/cordapp.git
        
 4. Open IntelliJ. From the splash screen, click `Import Project`, select the `bootcamp—
 cordapp` folder and click `Open`
