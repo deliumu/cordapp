@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="https://www.corda.net/wp-content/uploads/2016/11/fg005_corda_b.png" alt="Corda" width="500">
-</p>
-
-# Bootcamp CorDapp
-
-This project is the template we will use as a basis for developing a complete CorDapp 
-during today's bootcamp. Our CorDapp will allow the issuance of tokens onto the ledger.
-
-We'll develop the CorDapp using a test-driven approach. At each stage, you'll know your 
-CorDapp is working once it passes both sets of tests defined in `src/test/java/java_bootcamp`.
-
 ## Set up
 
 1. Download and install Oracle JDK 8 JVM (minimum supported version 8u131)
